@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Mili&#39;s Blog</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Mili&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2024 00:39:00 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why this website?</title>
+      <link>http://localhost:1313/about/website/</link>
+      <pubDate>Thu, 16 May 2024 00:39:00 +0330</pubDate>
+      <guid>http://localhost:1313/about/website/</guid>
+      <description>Have you ever been looking for a specific thing you had in mind and you wanted to know how to achieve it and you searched the whole fancy looking websites but found nothing but crap SEO farming content?&#xA;Until&amp;hellip;&#xA;You found this beautiful blog that someone wrote that had the same geeky thing in mind and that blog described the solution to the problem so beautifully that it helped you find the solution to your problem and saved you a bunch of time?</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/me/</link>
+      <pubDate>Wed, 15 May 2024 00:10:00 +0330</pubDate>
+      <guid>http://localhost:1313/about/me/</guid>
+      <description>I&amp;rsquo;m Mili, a sophomore Computer Engineering student.&#xA;I&amp;rsquo;m interested in creating things that make life easier. Furthermore, I&amp;rsquo;m a fan of free software (free as in freedom) and I&amp;rsquo;m trying to reach my dream of contributing to the free software community.&#xA;I use Arch GNU/Linux as my daily driver and I also use dwm as my window manager. Switching to GNU/Linux has been one of the best decisions I&amp;rsquo;ve ever made.</description>
+    </item>
+  </channel>
+</rss>
