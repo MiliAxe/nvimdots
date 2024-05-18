@@ -12,6 +12,8 @@ my dream of contributing to the free software community.
 I use Arch GNU/Linux as my daily driver and I also use [dwm](https://dwm.suckless.org/) as my window manager.
 Switching to GNU/Linux has been one of the best decisions I've ever made. Maybe one day I try out BSDs too.
 
+You can contact me via [email](mailto:miliaxe0@gmail.com)
+
 My interests include:
 
 - Low-level programming
