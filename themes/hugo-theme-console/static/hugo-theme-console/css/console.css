@@ -216,8 +216,8 @@ figure {
 
 @media only screen and (max-width: 850px) {
     .site-name {
-        width: 2ch;
-        overflow: hidden;
+        /* width: 2ch;
+        overflow: hidden; */
         display: inline-block;
     }
 
@@ -276,4 +276,8 @@ figure {
         margin-top: 50px;
         padding-top: 5px;;
     }
+}
+
+pre {
+    background-color: white !important;
 }
